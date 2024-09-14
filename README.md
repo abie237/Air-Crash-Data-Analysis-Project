@@ -24,5 +24,5 @@ Digging into the the data of air crashes form 1908-2023 to find insights and dis
 
 
 ## Dashboard Publishing
-- You can find the dashboard onlin in the Power Bi service [here](https://app.powerbi.com/groups/me/reports/3987d161-22e5-45d6-9a2b-867377766e1e/7ccb0bdd72519511d474?redirectedFromSignup=1&experience=power-bi)
+- You can find the dashboard online in the Power Bi service [here](https://app.powerbi.com/groups/me/reports/3987d161-22e5-45d6-9a2b-867377766e1e/7ccb0bdd72519511d474?redirectedFromSignup=1&experience=power-bi)
 
